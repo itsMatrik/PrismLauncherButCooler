@@ -1,4 +1,4 @@
-# Prism Launcher (No License Check)
+# Prism Launcher (No License Check) Version 12.0.0
 
 A fork of [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) with the **license verification completely removed**.
 Now you can use any account (including offline) because just a few lines of code were deleted from three files.
