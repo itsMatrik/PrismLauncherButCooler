@@ -1,3 +1,24 @@
+# Prism Launcher (No License Check)
+
+A fork of [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) with the **license verification completely removed**.
+Now you can use any account (including offline) because just a few lines of code were deleted from three files.
+
+## What was changed
+
+Literally two or three lines across three files were removed — no hacks, no patches, just the checks that required a licensed Minecraft account. Everything else is identical to upstream Prism Launcher.
+
+- Changed: 3 files.
+- Removed: ~20 lines of code.
+- Result: launcher no longer blocks launch for non-premium accounts.
+
+## Building from source
+
+Build instructions are the same as vanilla Prism Launcher:  
+[BUILD.md](https://github.com/PrismLauncher/PrismLauncher/blob/develop/BUILD.md)
+
+You can go to Releases page and download every version of launcher. **12.0.0b** for **30.04.2026**
+
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg">
